@@ -1,3 +1,5 @@
 This is the list of everyone in the Git tutorial. Add your name!
 
 David Baumgold <david@davidbaumgold.com>
+
+Vijay Lathia <vijay.lathia@gmail.com>
